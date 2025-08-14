@@ -1,0 +1,21 @@
+Save & exit.
+
+---
+
+## **3. Push to GitHub**
+```bash
+# Initialize a repo
+git init
+
+# Add files
+git add README.md run_netdata.sh yaml_screen.png
+
+# Commit
+git commit -m "Netdata monitoring setup with Docker"
+
+# Add your remote repo (replace with your actual repo link)
+git remote add origin https://github.com/tony-munna/task7.git
+
+# Push
+git branch -M main
+git push -u origin main
