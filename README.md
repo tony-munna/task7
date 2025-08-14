@@ -14,3 +14,4 @@ Install Netdata and visualize live system and application performance metrics.
 1. **Run Netdata container**
    ```bash
    ./run_netdata.sh
+https://github.com/tony-munna/task7/blob/6660839c10934673029471a149090e5b6be3c6c7/yaml_screen.png.png
